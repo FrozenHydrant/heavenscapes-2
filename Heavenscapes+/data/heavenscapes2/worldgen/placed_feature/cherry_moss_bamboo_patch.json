@@ -1,0 +1,12 @@
+{
+  "feature": "heavenscapes2:normal_bamboo_patch",
+  "placement": [
+    {
+      "type": "minecraft:count_on_every_layer",
+      "count": 1
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}
